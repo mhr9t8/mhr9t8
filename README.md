@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Web Dev
+https://github.com/MHRxWEB
+
+## SQA
+https://github.com/MHRxSQA
